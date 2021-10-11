@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://filehare.com/">FileHare</a>
+          Welcome to <a href="https://filehare.com/">FileHare</a> Project
         </h1>
 
         <p className={styles.description}>
