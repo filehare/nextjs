@@ -7,13 +7,13 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>Create Next App</title>
-        <meta name="description" content="FileHare.com by creating next application" />
+        <meta name="description" content="FileHare by creating next application" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://filehare.com/windows-11-professional-download/">Windows 11</a>
+          Welcome to <a href="https://filehare.com/">FileHare</a>
         </h1>
 
         <p className={styles.description}>
@@ -33,15 +33,15 @@ export default function Home() {
           </a>
 
           <a
-            href="https://filehare.com/"
+            href="https://filehare.com/windows-11-professional-download/"
             className={styles.card}
           >
             <h2>Examples &rarr;</h2>
-            <p>Discover and deploy boilerplate example FileHare projects.</p>
+            <p>Discover and deploy boilerplate example Windows 11 projects.</p>
           </a>
 
           <a
-            href="https://filehare.com/kinemaster-for-pc-download/"
+            href="https://filehare.com/"
             className={styles.card}
           >
             <h2>Deploy &rarr;</h2>
